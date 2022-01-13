@@ -1,0 +1,1 @@
+image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fucsdnews.ucsd.edu%2Fpressrelease%2Fuc-san-diego-ranked-no-1-public-university-by-washington-monthly&psig=AOvVaw2gq5YyD0mj1VC1W1ak4sbT&ust=1642131803767000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLC7vefnrfUCFQAAAAAdAAAAABAD
