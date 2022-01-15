@@ -9,14 +9,19 @@ ssh cs15lwi22anv@ieng6.ucsd.edu
 this is my first time log in and it has a lot of output here
 
 i am going to try some command here
+
 ![image](pic3.png)
- i tried pwd i think this command is to show my current path
- things change when i was typing this command using my own computer or during the remote access.
+
+i tried pwd i think this command is to show my current path
+things change when i was typing this command using my own computer or during the remote access.
+
 ![image](pic4.png)
 
 
 scp WhereAmI.java cs15lwi22anv@ieng6.ucsd.edu:~/
+
 ![image](pic5.png)
+
 as you can see, there is a difference between the first java command and the second one. because i am running the java and javac in different client, the first one is on my own computer so it shows winows 10 and jiang, then on the server it shows linux and my username of access.
 
 
