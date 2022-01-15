@@ -1,4 +1,9 @@
 lab-report-1-week-2.md
+
+Haochen Jiang
+A17011224
+
+
 ![image](pic1.png)
 I download vscode and this is my screenshot of it
 
