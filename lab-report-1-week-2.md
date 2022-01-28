@@ -40,9 +40,11 @@ as you can see, there is a difference between the first java command and the sec
 
 ## Setting an SSH Key
 ![image](pic6.png)
+
 I set up a passphrase so that i can login with a simple passphrase but not using long complex password
 
 ![image](pic7.png)
+
 i got some trouble using this command, it let me get stuck in this, so i have to type control+c to logout, this is quite useful.
 
 ## Optimizing Remote Running
