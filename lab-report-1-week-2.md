@@ -1,5 +1,6 @@
-lab-report-1-week-2.md
+# lab report week 1
 
+lab-report-1-week-2.md
 Haochen Jiang
 A17011224
 
