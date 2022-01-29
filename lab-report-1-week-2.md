@@ -17,7 +17,7 @@ I download vscode and this is my screenshot of it
 
 then i have to remote connect to the server using my ucsd account
 
-`ssh cs15lwi22anv@ieng6.ucsd.edu`
+```ssh cs15lwi22anv@ieng6.ucsd.edu```
 
 ![image](pic2.png)
 
@@ -35,7 +35,7 @@ things change when i was typing this command using my own computer or during the
 
 ## Moving Files with scp
 
-`scp WhereAmI.java cs15lwi22anv@ieng6.ucsd.edu:~/`
+```scp WhereAmI.java cs15lwi22anv@ieng6.ucsd.edu:~/```
 
 ![image](pic5.png)
 
@@ -56,7 +56,7 @@ to have a passphrase make it faster to log in because my password is extremely l
 
 i can use double quotes to run commands on the server from my computer
 
-`ssh cs15lwi22anv@ieng6.ucsd.edu "pwd"`
+```ssh cs15lwi22anv@ieng6.ucsd.edu "pwd"```
 
 ![image](pic8.png)
 
@@ -75,4 +75,4 @@ previous:
 the command run successfully
 total 13 keystroke
 
-As you can see, this is faster than the original way to run command, I only have to type 1 command and my passphrase.
+As you can see, this is faster than the original way to run command, I only have to type 1 command and my passphrase rather than first log in and then type the command.
