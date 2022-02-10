@@ -6,6 +6,9 @@ A17011224
 
 ## Bug 1
 
+This is the link to the first error input file: 
+[file-1](https://github.com/incisors/cse15l-lab-reports/blob/main/wk4/test-file2.md)
+
 ```
 # Title
 
@@ -30,6 +33,9 @@ so the problem is solved
 
 ## Bug 2
 
+This is the link to the second error input file: 
+[file-2](https://github.com/incisors/cse15l-lab-reports/blob/main/wk4/test-file6.md)
+
 ```
 # title 
 
@@ -44,8 +50,10 @@ the test passed after i debug the code in bug 1 case.
 
 ## Bug 3
 
+This is the link to the third error input file:
+[file-3](https://github.com/incisors/cse15l-lab-reports/blob/main/wk4/test-file3.md)
 ```
-[link][https://something.com]
+[a link!][https://something.com]
 ```
 
 this is the file that cause error
