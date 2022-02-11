@@ -5,7 +5,9 @@ Haochen Jiang
 A17011224
 
 ## Part 1
+Goal:
 Show your .ssh/config file, and how you edited it (with VScode, another program, etc)
+
 
 I first got some trouble finding my .ssh file, and I search it on google.
 
@@ -26,8 +28,11 @@ this is the screenshot of my vscode, shows my .ssh folder and the line i add to 
 ![image](pic1.png)
 
 
+
 ## Part 2
+Goal:
 Show the ssh command logging you into your account using just the alias you chose.
+
 
 Now I am able to use the name `ieng6` to easily login to the remote server
 
@@ -41,8 +46,11 @@ Here is the picture of logging in, I still need to enter my passphrase.
 ![image](pic2.png)
 
 
+
 ## Part 3
+Goal:
 Show an scp command copying a file to your account using just the alias you chose.
+
 
 After successfully login, i am going to try using scp to copy a testfile to my account
 
