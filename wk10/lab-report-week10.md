@@ -3,9 +3,9 @@ Haochen Jiang
 
 A17011224
 
-this is the link of my code [mycode](https://github.com/incisors/leo-markdownparse)
+this is the link of  [mycode](https://github.com/incisors/leo-markdownparse)
 
-this is the link of joe's code [joe'scode](https://github.com/ucsd-cse15l-w22/markdown-parse)
+this is the link of  [joe'scode](https://github.com/ucsd-cse15l-w22/markdown-parse)
 ## run the test
 
 I would need to run hundreds of tests and record them and compare
