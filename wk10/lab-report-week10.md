@@ -47,13 +47,9 @@ and the second one will be the implementation from joe.
 
 the first difference appear for test case 212.md
 this is the content of the file:
-```
-``` 
-[foo]: /url
-```
 
-[foo]
-```
+![pic7](pic7.png)
+
 
 base on the markdown preview, the link should be `/url`
 this is the result of my implementation and joe's implementation
